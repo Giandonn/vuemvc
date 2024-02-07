@@ -60,7 +60,7 @@
     <!--========== HEADER ==========-->
     <header class="header">
         <div class="header__container">
-            <a href="#" class="header__logo">Estrutura MVC - VUE</a>
+            <a href="#" class="header__logo">Estrutura MVC - VUE by Lucas Raineri</a>
 
             <a href="#" class="header__logo"><?php if (isset($_SESSION['nome'])){
                 echo($_SESSION['nome']);
